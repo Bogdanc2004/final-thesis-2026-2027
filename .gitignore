@@ -1,0 +1,17 @@
+#Environment and secret keys
+.env*
+!.env.example
+
+#IDE environments
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
